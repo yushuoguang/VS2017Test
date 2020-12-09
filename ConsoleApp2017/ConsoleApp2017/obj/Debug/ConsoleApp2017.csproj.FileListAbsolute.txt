@@ -1,0 +1,9 @@
+c:\Projects\ConsoleApp2017\ConsoleApp2017\bin\Debug\ConsoleApp2017.exe.config
+c:\Projects\ConsoleApp2017\ConsoleApp2017\bin\Debug\ConsoleApp2017.exe
+c:\Projects\ConsoleApp2017\ConsoleApp2017\bin\Debug\ConsoleApp2017.pdb
+c:\Projects\ConsoleApp2017\ConsoleApp2017\bin\Debug\Newtonsoft.Json.dll
+c:\Projects\ConsoleApp2017\ConsoleApp2017\obj\Debug\ConsoleApp2017.csprojAssemblyReference.cache
+c:\Projects\ConsoleApp2017\ConsoleApp2017\obj\Debug\ConsoleApp2017.csproj.CoreCompileInputs.cache
+c:\Projects\ConsoleApp2017\ConsoleApp2017\obj\Debug\ConsoleApp2017.csproj.CopyComplete
+c:\Projects\ConsoleApp2017\ConsoleApp2017\obj\Debug\ConsoleApp2017.exe
+c:\Projects\ConsoleApp2017\ConsoleApp2017\obj\Debug\ConsoleApp2017.pdb
