@@ -2,11 +2,11 @@
 
 namespace UnitTestProject
 {
-    [TestFixture(Category = "NoPR")]
-    public class UnitTest1
+    [TestFixture]
+    public class UnitTest3
     {
         [Test]
-        public void TestMethod1()
+        public void TestMethod3()
         {
             string a = "a";
             Assert.AreEqual("a", a);
